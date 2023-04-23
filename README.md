@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pablo-r-stack
 - 👀 I’m interested in learning programming basics and how it works
-- 🌱 I’m currently learning pseudocode, html, java
-- 👀 Looking to improve personal skills to introduce myself into  a coding career.
+- 🌱 I’m currently learning, java, html, csss, python.
+- 👀 Looking to improve personal skills to introduce myself into  a it career.
 - 📫 How to reach me just by here.
 
 <!---
