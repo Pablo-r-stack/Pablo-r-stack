@@ -5,6 +5,6 @@
 - 📫 How to reach me just by here.
 
 
-<!---
+---
 All the public repositories on my profile showcase my journey and experience as a developer over the years. Feel free to clone, watch, or leave a comment if you find any of them interesting.
---->
+---
