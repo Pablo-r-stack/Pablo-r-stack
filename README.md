@@ -59,7 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Pablo-r-stack/Pablo-r-stack/output/snake.svg" alt="Snake animation" />
 
 ###
 ---
