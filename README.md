@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">-👋 Hi, I’m @Pablo-r-stack<br>-🤓 I’m a fullstack web developer. <br>-👀 I'm always looking to improve my development skills and new technologies.<br>-🌱 Currently I'm striving to gain as much experience as possible.<br>-📫 How to reach me just by here.</h2>
+<h2 align="left">-👋 Hi, I’m @Pablo-r-stack<br>-🤓 I’m a fullstack web developer. <br>-👀 I'm always looking to improve my development skills and new technologies.<br>-🌱 Currently I'm striving to gain as much experience as possible.<br>-📫You can contact me through the social media links below.</h2>
 
 ###
 
